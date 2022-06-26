@@ -3,7 +3,7 @@ Tool that applies automated patches for some linux issues
 
 Tool requires root
 
-This tool was primarily designed to fix issues I had with my own device. But should work with devices with simular hardware
+This tool was primarily designed to fix issues I had with my own device. But should work with devices with similar hardware
 
 Currently this application only applies a patch for the Realtek ALC294
 Some ASUS laptops don't have audio via onboard speakers, or volume is stuck at 100%
